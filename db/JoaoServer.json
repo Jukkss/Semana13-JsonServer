@@ -1,0 +1,54 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Um Sonho de Liberdade",
+      "description": "Uma história de esperança e resiliência dentro de uma prisão.",
+      "image": "https://via.placeholder.com/300x200?text=Um+Sonho+de+Liberdade",
+      "year": 1994
+    },
+    {
+      "id": 2,
+      "title": "A Origem",
+      "description": "Uma jornada alucinante através de camadas de sonhos.",
+      "image": "https://via.placeholder.com/300x200?text=A+Origem",
+      "year": 2010
+    },
+    {
+      "id": 3,
+      "title": "O Cavaleiro das Trevas",
+      "description": "Batman enfrenta o Coringa em uma batalha pela alma de Gotham.",
+      "image": "https://via.placeholder.com/300x200?text=O+Cavaleiro+das+Trevas",
+      "year": 2008
+    },
+    {
+      "id": 4,
+      "title": "Forrest Gump: O Contador de Histórias",
+      "description": "A história extraordinária da jornada de um homem pela vida.",
+      "image": "https://via.placeholder.com/300x200?text=Forrest+Gump",
+      "year": 1994
+    },
+    {
+      "id": 5,
+      "title": "Gladiador",
+      "description": "A luta de um general romano para vingar sua família e seu nome.",
+      "image": "https://via.placeholder.com/300x200?text=Gladiador",
+      "year": 2000
+    },
+    {
+      "id": 6,
+      "title": "Clube da Luta",
+      "description": "Um homem comum é arrastado para um submundo de violência e caos.",
+      "image": "https://via.placeholder.com/300x200?text=Clube+da+Luta",
+      "year": 1999
+    }
+  ],
+  "info": {
+    "nome": "João Victor",
+    "matricula": "874237",
+    "curso": "Sistemas de Informação",
+    "turma": "2024.2-MANHÃ"
+  }
+}
+
+  
